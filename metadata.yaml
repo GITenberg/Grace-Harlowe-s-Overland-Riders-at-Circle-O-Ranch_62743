@@ -1,0 +1,35 @@
+_repo: Grace-Harlowe-s-Overland-Riders-at-Circle-O-Ranch_62743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Thompson, Ames
+    - Flower, Jessie Graham
+    - Gordon, Grace
+    - Lester, Pauline
+    - Bates, Gordon
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+    wikipedia: https://en.wikipedia.org/wiki/Jessie_Graham_Flower
+description: ''
+gutenberg_issued: '2020-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Cattle stealing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'California -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Horsemanship -- Juvenile fiction'
+- GITenberg
+title: Grace Harlowe's Overland Riders at Circle O Ranch
+url: http://www.gutenberg.org/ebooks/62743
